@@ -10,7 +10,7 @@
 }
 
 body{
-    background: url("bgimg.jpg");
+    background: url(bgimg.jpg);
     background-size: cover;
     font-family: poppins;
     
